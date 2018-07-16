@@ -1,0 +1,17 @@
+h1{
+  color: purple;
+font-size:1.9em;
+font-style: italic;
+
+}
+
+.jumbotron {
+  min-height: 900px;
+  background-image: url('Working Directory/background.jpg');
+  background-size: cover;
+  background-attachment: fixed;
+}
+body{
+
+  background-color: pink;
+}
